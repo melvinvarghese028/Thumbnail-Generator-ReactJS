@@ -80,6 +80,7 @@ function ImgDisplay(props) {
                       >
                         Download JPEG
                       </button>
+                          <a href="https://reframe-s6.netlify.app/index.html"><button>go back </button></a>
                     </div>
                   </div>
                 </form>
